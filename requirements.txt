@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-groq
+sentence-transformers
+faiss-cpu
+newspaper3k
+requests
+python-dotenv
+streamlit
+langchain_huggingface
+newsapi
